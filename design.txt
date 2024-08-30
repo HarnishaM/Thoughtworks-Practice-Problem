@@ -1,0 +1,6 @@
+Actors                    Use Case
+1.Customer                1. Choose a platform
+2.System                  2.calculates cost
+
+
+
